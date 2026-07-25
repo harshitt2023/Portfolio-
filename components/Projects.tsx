@@ -2,12 +2,12 @@ import { Reveal, SectionHeading } from "./Motion";
 
 const projects = [
   {
-    initials: "PW",
-    name: "Pennywise",
-    description: "AI-powered expense tracker with financial dashboards, smart budget insights, Gemini AI reporting, and secure multi-user authentication.",
-    stack: ["Next.js", "Gemini AI", "PostgreSQL", "Clerk"],
-    accent: "cyan",
-    href: "https://pennywise3.vercel.app/sign-in?redirect_url=https%3A%2F%2Fpennywise3.vercel.app%2F",
+    initials: "RQ",
+    name: "RecallIQ",
+    description: "AI-powered study tool that converts PDFs into auto-generated summaries, flashcards, and quizzes — with topic-tagged weak-area detection powered by Groq/Llama.",
+    stack: ["FastAPI", "Groq AI", "SQLite", "JavaScript"],
+    accent: "lime",
+    href: "https://recalliq-dzuu.onrender.com/",
   },
   {
     initials: "MN",
